@@ -23,21 +23,28 @@
 
 }
 
-.container {
-  position:fixed;
-  bottom: 0;
-  align-items: stretch;
-
-}
-
 .jumbotron {
   background color: ;
   background-image: url("file:///home/user/Desktop/MORINGA/Portfolio/images/nicole_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: #FFF;
+  height: 100px;
 }
 
-.introduction {
-  background-color: #ffffe6;
+.container-fluid {
+  height: 700px;
+  color: #FFF;
+  font-size: 100px;
+  font-family: helvetica;
+  text-align: center;
+
+}
+
+.aboutme {
+  height:400px;
+}
+
+.myprojects {
+  height:400px;
 }
