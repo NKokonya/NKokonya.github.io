@@ -2,11 +2,12 @@
 .topnav {
     background-color: #333;
     overflow: hidden;
+    align-items:
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    float: left;
+    float:left;
     display: block;
     color: #f2f2f2;
     text-align: center;
@@ -20,4 +21,23 @@
     background-color: #ddd;
     color: black;
 
-.background-image: 
+}
+
+.container {
+  position:fixed;
+  bottom: 0;
+  align-items: stretch;
+
+}
+
+.jumbotron {
+  background color: ;
+  background-image: url("file:///home/user/Desktop/MORINGA/Portfolio/images/nicole_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #FFF;
+}
+
+.introduction {
+  background-color: #ffffe6;
+}
